@@ -5,6 +5,8 @@ faithcoin Core integration/staging tree
 
 http://faithco.in
 
+增加一点学习内容
+
 What is faithcoin?
 ----------------
 
